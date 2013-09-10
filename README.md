@@ -5,6 +5,7 @@ This is the code repository for all of ThunderRidge High School's DECA Chapter.
 Here, we will be hosting:
 
 - [x] The School Store eCommerce Website
+- [x] [The TRHS iOS and Android (Beta) App](http://bit.ly/get-app-now)
 - [ ] The Shift Check-In Application
 - [ ] Other code projects to further DECA and the school store's progress
 
