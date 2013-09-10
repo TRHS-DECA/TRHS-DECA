@@ -43,4 +43,4 @@ git push origin master
 
 9. I'll check and accept your changes, and YOU ARE NOW A BOSS.
 
-- @krrishd (Krish Dholakiya, School Store CTO)
+~ [@krrishd](javascript:alert("Going to Krish's page? Cool.");window.location="http://github.com/krrishd"); (Krish Dholakiya, School Store CTO)
