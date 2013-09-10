@@ -4,9 +4,9 @@ This is the code repository for all of ThunderRidge High School's DECA Chapter.
 
 Here, we will be hosting:
 
-- The School Store eCommerce Website
-- The Shift Check-In Application
-- Other code projects to further DECA and the school store's progress
+- [x] The School Store eCommerce Website
+- [] The Shift Check-In Application
+- [] Other code projects to further DECA and the school store's progress
 
 ---
 
@@ -22,13 +22,13 @@ To contribute, simply
 
 4. Open the Git shell. Execute the following:
 
-```Shell
+```bash
 cd /path/to/wherever/you/cloned/the/project
 ```
 
 5. Execute the following commands:
 
-```Shell
+```bash
 git pull https://github.com/krrishd/TRHS-DECA.git master
 git add .
 git commit -m "I made these changes yolo - @myUsername"
