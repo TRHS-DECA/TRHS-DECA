@@ -28,7 +28,7 @@ cd /path/to/wherever/you/cloned/the/project
 
 5. Execute the following commands:
 
-```git
+```bash
 git pull https://github.com/krrishd/TRHS-DECA.git master
 git add .
 git commit -m "I made these changes yolo - @myUsername"
