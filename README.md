@@ -41,6 +41,6 @@ git push origin master
 
 8. Open a new pull request.
 
-9. I'll check and accept your changes, and YOU ARE NOW A BOSS.
+9. I'll check and accept your changes, and YOU ARE NOW A BOSS :+1: 
 
-~ [@krrishd](http://github.com/krrishd?hashtag=swag); (Krish Dholakiya, School Store CTO)
+~ [@krrishd](http://github.com/krrishd?hashtag=swag) (Krish Dholakiya, School Store CTO)
