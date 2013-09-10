@@ -5,8 +5,8 @@ This is the code repository for all of ThunderRidge High School's DECA Chapter.
 Here, we will be hosting:
 
 - [x] The School Store eCommerce Website
-- [] The Shift Check-In Application
-- [] Other code projects to further DECA and the school store's progress
+- [ ] The Shift Check-In Application
+- [ ] Other code projects to further DECA and the school store's progress
 
 ---
 
@@ -42,3 +42,5 @@ git push origin master
 8. Open a new pull request.
 
 9. I'll check and accept your changes, and YOU ARE NOW A BOSS.
+
+- @krrishd (Krish Dholakiya, School Store CTO)
