@@ -32,7 +32,7 @@ cd /path/to/wherever/you/cloned/the/project
 ```bash
 git pull https://github.com/krrishd/TRHS-DECA.git master
 git add .
-git commit -m "I made these changes yolo - @myUsername"
+git commit -m "YOLO I made these changes - @myUsername"
 git push origin master
 ```
 
@@ -43,5 +43,4 @@ git push origin master
 8. Open a new pull request.
 
 9. I'll check and accept your changes, and YOU ARE NOW A BOSS :+1: 
-
 ~ [@krrishd](http://github.com/krrishd?hashtag=swag) (Krish Dholakiya, School Store CTO)
