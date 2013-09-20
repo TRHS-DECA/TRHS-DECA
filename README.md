@@ -24,16 +24,16 @@ To contribute, simply
 4. Open the Git shell. Execute the following:
 
 ```bash
-cd /path/to/wherever/you/cloned/the/project
+$ cd /path/to/wherever/you/cloned/the/project
 ```
 
 5. Execute the following commands:
 
 ```bash
-git pull https://github.com/krrishd/TRHS-DECA.git master
-git add .
-git commit -m "YOLO I made these changes - @myUsername"
-git push origin master
+$ git pull https://github.com/krrishd/TRHS-DECA.git master
+$ git add .
+$ git commit -m "YOLO I made these changes - @myUsername"
+$ git push origin master
 ```
 
 6. Open **this** original repository @ [http://github.com/krrishd/TRHS-DECA](http://github.com/krrishd/TRHS-DECA)
