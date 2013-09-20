@@ -1,0 +1,3 @@
+[submodule "trhsApp"]
+	path = trhsApp
+	url = git@github.com:krrishd/trhsApp.git
